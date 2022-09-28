@@ -5,6 +5,6 @@ Further reading about barcode collision:
   
 Usage:
   
-  file="path/to/your_barcode_list"
+  file="path/to/your_barcode_file"
   
   ./check_collision.awk $file
